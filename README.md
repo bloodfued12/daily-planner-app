@@ -10,6 +10,9 @@ This project solves the problem that most people face in this time. Which is? Ti
 ## What did you learn?
 
 ## What makes your project stand out?
+
+## project link
+[Daily planner app](https://bloodfued12.github.io/daily-planner-app/starter/index.html)
 # Third-Party APIs: Work Day Scheduler
 
 ## Your Task
